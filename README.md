@@ -1,6 +1,8 @@
 # 🎂 致 FLatWhite · 18 岁生日快乐
 
 一个使用纯 HTML/CSS/JS 构建的液态玻璃风格生日祝福网页，献给最特别的你。
+<img width="2538" height="1310" alt="image" src="https://github.com/user-attachments/assets/d47f53bd-f343-49e8-a7e9-9f236394a655" />
+
 
 ## ✨ 特色
 
@@ -11,6 +13,7 @@
 - **涟漪效果**：鼠标移动的水波纹交互
 - **响应式设计**：适配桌面与移动设备
 - **流畅动效**：使用弹性曲线和弹簧动画
+- 
 
 ## 📁 项目结构
 
